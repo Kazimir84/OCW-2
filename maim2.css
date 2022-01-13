@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background-color: #252525;
+}
+
+.container {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+.all {
+    box-sizing: border-box;
+    margin: 20px;
+    border-style: solid;
+    padding: 10px 0;
+    border-radius: 20px;
+    border-width: 3px;
+}
+.one {
+    border-color: #ff6e1d;
+    color: #ff6e1d;
+}
+
+.too {
+    color: #2cfff2;
+    border-color: #2cfff2;
+}
+
+.three {
+    color: #ff54a6;
+    border-color: #ff54a6;
+}
+
+.four {
+    color: #ff3e3e;
+    border-color: #ff3e3e;
+}
